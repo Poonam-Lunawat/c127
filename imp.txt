@@ -1,8 +1,0 @@
-create virtual env, ...pip install virtualenv....virtualenve env
-acivate it \env\Scripts\Activate.bat  ..e tab s tab a tab tab
-install all libraries...selenium..beautifulsoup4/bs4
-install chromedriver preferably in same folder
-to check exoplanet class, click in the area where planet info is displayed.
-
-to find xPath : right click on >(next button), it shows <span class="next">
-click on that and then right click on href link, select copy and then copy xPath.
